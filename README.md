@@ -1,4 +1,6 @@
-## Olá! Eu sou a Thais (Thata)! 💻
+## Olá!! Bem vindo(a) ao meu perfil! 💻
+
+## Welcome to my profile! 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ihsinhah/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-souza-silva-77369328a/)
